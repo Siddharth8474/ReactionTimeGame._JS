@@ -1,0 +1,17 @@
+#red{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    display: none;
+}
+
+#green{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    display: none;
+}
+
+#Reaction-container{
+   margin-left: 50%;
+}
